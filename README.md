@@ -34,6 +34,6 @@ django_att.sh
 - Sitema linux.
 - Acesso ao root ou a senha do root.
 - Link do repositorio publico ou link com token do repositorio caso seja privado.
-- curl instalado
+- curl instalado.
 ## Permições
 Qualquer um é livre para baixar os arquivos e alterar para suprir suas necessidades.
