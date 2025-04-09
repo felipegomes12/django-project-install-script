@@ -36,4 +36,4 @@ sudo django_att.sh
 - Link do repositorio publico ou link com token do repositorio caso seja privado.
 - curl instalado.
 ## Permições
-Qualquer um é livre para baixar os arquivos e alterar para suprir suas necessidades.
+Qualquer um é livre para baixar os arquivos e alterar para suprir suas necessidades. Nenhum crédito é necessário.
