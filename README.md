@@ -22,13 +22,13 @@ Executa a instalação do seu projeto, ao usar esse script ele vai perguntar o e
 do repositorio para instalação e irá salvar, caso o repositorio seja privado deve ser
 passado o token do repositorio para o download.
 ```shell
-django_install.sh
+sudo django_install.sh
 ```
 ### django_att.sh
 Quando chamado faz o stash e drop das mudanças presentes no diretorio local, baixa a nova
 versão disponivel e reinicia todos os processos relacionados.
 ```shell
-django_att.sh
+sudo django_att.sh
 ```
 ## requerimentos
 - Sitema linux.
